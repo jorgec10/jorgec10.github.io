@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jorge Gallego Madrid</title>
-    <link>/</link>
-    <description>Recent content on Jorge Gallego Madrid</description>
+    <title>Jose Santa on Jorge Gallego Madrid</title>
+    <link>/authors/jose-santa/</link>
+    <description>Recent content in Jose Santa on Jorge Gallego Madrid</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/authors/jose-santa/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,15 +17,6 @@
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>/publication/sanc-1912-mec/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Performance Study of LoRaWAN for Smart-City Applications</title>
-      <link>/publication/sanc-1909-performance/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/sanc-1909-performance/</guid>
       <description></description>
     </item>
     
