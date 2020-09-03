@@ -6,9 +6,55 @@
     <description>Recent content in Tags on Jorge Gallego Madrid</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>C-ITS</title>
+      <link>/tags/c-its/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/c-its/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security</title>
+      <link>/tags/security/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>V2V</title>
+      <link>/tags/v2v/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/v2v/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vehicular networks</title>
+      <link>/tags/vehicular-networks/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/vehicular-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zone encryption</title>
+      <link>/tags/zone-encryption/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/zone-encryption/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
